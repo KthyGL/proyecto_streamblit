@@ -1,7 +1,7 @@
 import sys 
 from pathlib import Path 
 import streamlit as st 
-# import plotly.express as px 
+import plotly.express as px 
 import pandas as pd
 
 #llamamo la bbdd que vamos a utilizar
